@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-#Copyright by Nick Zarczynski 
+#Copyright by Nick Zarczynski. I probably don't have permission to post this on github but I'm going to anyway and
+# hope Nick Zarczynski does not sue me. 
 #Source: https://pointlessprogramming.wordpress.com/2011/02/13/python-cgi-tutorial-1/
+#Retrieved 2016/01/19
 
 import BaseHTTPServer
 import CGIHTTPServer
